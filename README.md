@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @QuickPirate
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning godot
+- 📫 How to reach me? Homing pidgeon
+- 😄 Pronouns: kms/kys
+- ⚡ Fun fact: I am very dumb but happy :D
